@@ -291,6 +291,15 @@ footer a:hover {
 }
 
 @media (max-width: 768px) {
+    section {
+        padding: 40px 15px;
+    }
+    .navbar {
+        padding: 1rem;
+    }
+    .navbar-brand {
+        font-size: 1.2rem;
+    }
     .project-card {
         margin-bottom: 20px; 
     }
